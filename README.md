@@ -1,6 +1,5 @@
-# count-base-in-gene
-Takes user inputs and determines if a nucleotide is a silent mutation or if it causes changes in the amino acid produced. 
-This project can be used as a tool to determine the consequences of single nucleotide polymorphisms (SNPs).
+# SNP Analyzer
+Genomics tool that parses a user-inputted DNA segment and determines if a single nucleotide polymorphism (SNP) is a silent mutation or if it results in a different amino acid.
 
 # Instructions:
 The header provides information on the genome you plan on inputting. It should be in the format:
